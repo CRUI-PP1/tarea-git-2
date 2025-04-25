@@ -6,6 +6,9 @@
 * Tener una cuenta en esta plataforma, GitHub
 * Tener creado un repositorio nuevo y vacío
 
+**A medida que vaya realizando la actividad:**
+Escriba las respuestas a las preguntas planteadas en esta actividad en un archivo de TEXTO aparte (.txt, no de Word ni ningún tipo de documento), fuera de la carpeta en donde trabajaran con el repositorio creado. Tendrá que versionar este archivo al final de la actividad.
+
 ## Configuración inicial del proyecto
 
 Realice los siguientes pasos para configurar el entorno de trabajo para esta actividad:
@@ -174,3 +177,11 @@ Para practicar el flujo de trabajo colaborativo, simularemos que otra persona (o
 ## Ejercicio 6: Merge con remotos
 
 Sin instrucción previa y según lo visto en clase, intente crear un conflicto con cambios hechos en el remoto, que usted aún no tenga en su rama local. Debe usar los conocimientos de este trabajo práctico y los métodos vistos en clase para recrear este escenario común en la práctica laboral.
+
+## Ejercicio 7: Push de las respuestas
+
+Copie y pegue el archivo de las respuestas solicitado al principio de esta actividad en la carpeta del repositorio creado. Cree una versión del repositorio con este archivo y haga push de esta nueva versión con las respuestas al repositorio remoto.
+
+## Ejercicio final:
+
+Próximamente :)
