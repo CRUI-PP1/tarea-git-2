@@ -1,4 +1,4 @@
-# Actividad: Ramas, fusiones y colaboración conflicto
+# Actividad: Ramas, fusiones y colaboración - conflicto resuelto
 
 **Prerrequisitos:**
 
