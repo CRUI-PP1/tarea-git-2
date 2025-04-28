@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Actividad: Ramas, fusiones y colaboración - conflicto otra vez
+=======
+# Actividad: Ramas, fusiones y colaboración - conflicto sin resolver en el clon
+>>>>>>> 463fc464d8482c2e02fbac260cdc6bcb31042f13
 
 **Prerrequisitos:**
 
