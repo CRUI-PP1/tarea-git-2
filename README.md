@@ -1,4 +1,4 @@
-# Actividad: Ramas, fusiones y colaboración remota
+# Actividad: Ramas, fusiones y colaboración conflicto
 
 **Prerrequisitos:**
 
