@@ -1,4 +1,4 @@
-# Actividad: Ramas, fusiones y colaboración - conflicto resuelto
+# Actividad: Ramas, fusiones y colaboración - conflicto sin resolver en el clon
 
 **Prerrequisitos:**
 
